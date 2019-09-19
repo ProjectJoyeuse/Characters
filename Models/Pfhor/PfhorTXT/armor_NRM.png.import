@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/armor_NRM.png-9deaa80e4c901efa46a60d6eeed0ac2d.s3tc.stex"
-path.etc2="res://.import/armor_NRM.png-9deaa80e4c901efa46a60d6eeed0ac2d.etc2.stex"
+path.s3tc="res://.import/armor_NRM.png-02cb04a5a0e9ff62f9bc685c8d3dd915.s3tc.stex"
+path.etc2="res://.import/armor_NRM.png-02cb04a5a0e9ff62f9bc685c8d3dd915.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://BaseGD/Characters/Pfhor/PfhorTXT/armor_NRM.png"
-dest_files=[ "res://.import/armor_NRM.png-9deaa80e4c901efa46a60d6eeed0ac2d.s3tc.stex", "res://.import/armor_NRM.png-9deaa80e4c901efa46a60d6eeed0ac2d.etc2.stex" ]
+source_file="res://assets/Characters/Models/Pfhor/PfhorTXT/armor_NRM.png"
+dest_files=[ "res://.import/armor_NRM.png-02cb04a5a0e9ff62f9bc685c8d3dd915.s3tc.stex", "res://.import/armor_NRM.png-02cb04a5a0e9ff62f9bc685c8d3dd915.etc2.stex" ]
 
 [params]
 

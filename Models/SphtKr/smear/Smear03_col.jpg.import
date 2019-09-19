@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Smear03_col.jpg-7ebef28dc94068ce492263a26cf9574d.s3tc.stex"
-path.etc2="res://.import/Smear03_col.jpg-7ebef28dc94068ce492263a26cf9574d.etc2.stex"
+path.s3tc="res://.import/Smear03_col.jpg-53918f067f466637eb4a6ccd9f61e064.s3tc.stex"
+path.etc2="res://.import/Smear03_col.jpg-53918f067f466637eb4a6ccd9f61e064.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtKr/smear/Smear03_col.jpg"
-dest_files=[ "res://.import/Smear03_col.jpg-7ebef28dc94068ce492263a26cf9574d.s3tc.stex", "res://.import/Smear03_col.jpg-7ebef28dc94068ce492263a26cf9574d.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtKr/smear/Smear03_col.jpg"
+dest_files=[ "res://.import/Smear03_col.jpg-53918f067f466637eb4a6ccd9f61e064.s3tc.stex", "res://.import/Smear03_col.jpg-53918f067f466637eb4a6ccd9f61e064.etc2.stex" ]
 
 [params]
 

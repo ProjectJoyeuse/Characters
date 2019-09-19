@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Diffuse.png-2ea7f62c2d482fed40de3bedd24adce7.s3tc.stex"
-path.etc2="res://.import/Diffuse.png-2ea7f62c2d482fed40de3bedd24adce7.etc2.stex"
+path.s3tc="res://.import/Diffuse.png-bdd832492267c2e6acf5aee1309196f0.s3tc.stex"
+path.etc2="res://.import/Diffuse.png-bdd832492267c2e6acf5aee1309196f0.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtKr/textures/Diffuse.png"
-dest_files=[ "res://.import/Diffuse.png-2ea7f62c2d482fed40de3bedd24adce7.s3tc.stex", "res://.import/Diffuse.png-2ea7f62c2d482fed40de3bedd24adce7.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtKr/textures/Diffuse.png"
+dest_files=[ "res://.import/Diffuse.png-bdd832492267c2e6acf5aee1309196f0.s3tc.stex", "res://.import/Diffuse.png-bdd832492267c2e6acf5aee1309196f0.etc2.stex" ]
 
 [params]
 

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/diffuse.tga.004.tga-3a418f3f5c865b3bb4538e5eb7346b4c.s3tc.stex"
-path.etc2="res://.import/diffuse.tga.004.tga-3a418f3f5c865b3bb4538e5eb7346b4c.etc2.stex"
+path.s3tc="res://.import/diffuse.tga.004.tga-a669f77692ce9d7bf8fbc3c40c80e51d.s3tc.stex"
+path.etc2="res://.import/diffuse.tga.004.tga-a669f77692ce9d7bf8fbc3c40c80e51d.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtSlave/SphtSlaveTextures/diffuse.tga.004.tga"
-dest_files=[ "res://.import/diffuse.tga.004.tga-3a418f3f5c865b3bb4538e5eb7346b4c.s3tc.stex", "res://.import/diffuse.tga.004.tga-3a418f3f5c865b3bb4538e5eb7346b4c.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtSlave/SphtSlaveTextures/diffuse.tga.004.tga"
+dest_files=[ "res://.import/diffuse.tga.004.tga-a669f77692ce9d7bf8fbc3c40c80e51d.s3tc.stex", "res://.import/diffuse.tga.004.tga-a669f77692ce9d7bf8fbc3c40c80e51d.etc2.stex" ]
 
 [params]
 

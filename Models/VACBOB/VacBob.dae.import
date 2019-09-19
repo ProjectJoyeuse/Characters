@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/VacBob.dae-771303734e37ffc25752538027e1ee01.scn"
+path="res://.import/VacBob.dae-2aa12cc2e67e1a646972c39cb81d46e8.scn"
 
 [deps]
 
-source_file="res://assets/Characters/VACBOB/VacBob.dae"
-dest_files=[ "res://.import/VacBob.dae-771303734e37ffc25752538027e1ee01.scn" ]
+source_file="res://assets/Characters/Models/VACBOB/VacBob.dae"
+dest_files=[ "res://.import/VacBob.dae-2aa12cc2e67e1a646972c39cb81d46e8.scn" ]
 
 [params]
 

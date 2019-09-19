@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Pfhor.dae-a40d9a949f95ce351951d953d17d56ee.scn"
+path="res://.import/Pfhor.dae-bc0ab3a130d3842ab497eebb4a731641.scn"
 
 [deps]
 
-source_file="res://BaseGD/Characters/Pfhor/Pfhor.dae"
-dest_files=[ "res://.import/Pfhor.dae-a40d9a949f95ce351951d953d17d56ee.scn" ]
+source_file="res://assets/Characters/Models/Pfhor/Pfhor.dae"
+dest_files=[ "res://.import/Pfhor.dae-bc0ab3a130d3842ab497eebb4a731641.scn" ]
 
 [params]
 

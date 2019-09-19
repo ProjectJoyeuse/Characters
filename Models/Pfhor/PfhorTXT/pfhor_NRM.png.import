@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/pfhor_NRM.png-32365bc044dc6f7eb466eaa8a8290310.s3tc.stex"
-path.etc2="res://.import/pfhor_NRM.png-32365bc044dc6f7eb466eaa8a8290310.etc2.stex"
+path.s3tc="res://.import/pfhor_NRM.png-cfebcccebbdfb767ac6b3e8d403de236.s3tc.stex"
+path.etc2="res://.import/pfhor_NRM.png-cfebcccebbdfb767ac6b3e8d403de236.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://BaseGD/Characters/Pfhor/PfhorTXT/pfhor_NRM.png"
-dest_files=[ "res://.import/pfhor_NRM.png-32365bc044dc6f7eb466eaa8a8290310.s3tc.stex", "res://.import/pfhor_NRM.png-32365bc044dc6f7eb466eaa8a8290310.etc2.stex" ]
+source_file="res://assets/Characters/Models/Pfhor/PfhorTXT/pfhor_NRM.png"
+dest_files=[ "res://.import/pfhor_NRM.png-cfebcccebbdfb767ac6b3e8d403de236.s3tc.stex", "res://.import/pfhor_NRM.png-cfebcccebbdfb767ac6b3e8d403de236.etc2.stex" ]
 
 [params]
 

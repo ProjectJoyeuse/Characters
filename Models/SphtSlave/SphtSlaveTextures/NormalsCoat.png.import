@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/NormalsCoat.png-a90dc435d6c3ea9252cdf1d258d5efdb.s3tc.stex"
-path.etc2="res://.import/NormalsCoat.png-a90dc435d6c3ea9252cdf1d258d5efdb.etc2.stex"
+path.s3tc="res://.import/NormalsCoat.png-97274eadbb3cb20ded9b1bc91cc6969f.s3tc.stex"
+path.etc2="res://.import/NormalsCoat.png-97274eadbb3cb20ded9b1bc91cc6969f.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtSlave/SphtSlaveTextures/NormalsCoat.png"
-dest_files=[ "res://.import/NormalsCoat.png-a90dc435d6c3ea9252cdf1d258d5efdb.s3tc.stex", "res://.import/NormalsCoat.png-a90dc435d6c3ea9252cdf1d258d5efdb.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtSlave/SphtSlaveTextures/NormalsCoat.png"
+dest_files=[ "res://.import/NormalsCoat.png-97274eadbb3cb20ded9b1bc91cc6969f.s3tc.stex", "res://.import/NormalsCoat.png-97274eadbb3cb20ded9b1bc91cc6969f.etc2.stex" ]
 
 [params]
 

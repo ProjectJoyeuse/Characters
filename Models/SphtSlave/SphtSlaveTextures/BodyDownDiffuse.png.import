@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/BodyDownDiffuse.png-b1c0805f492c076a41daf4cffbb3f973.s3tc.stex"
-path.etc2="res://.import/BodyDownDiffuse.png-b1c0805f492c076a41daf4cffbb3f973.etc2.stex"
+path.s3tc="res://.import/BodyDownDiffuse.png-470e3f3d3291b231eddac6095ac7fe86.s3tc.stex"
+path.etc2="res://.import/BodyDownDiffuse.png-470e3f3d3291b231eddac6095ac7fe86.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtSlave/SphtSlaveTextures/BodyDownDiffuse.png"
-dest_files=[ "res://.import/BodyDownDiffuse.png-b1c0805f492c076a41daf4cffbb3f973.s3tc.stex", "res://.import/BodyDownDiffuse.png-b1c0805f492c076a41daf4cffbb3f973.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtSlave/SphtSlaveTextures/BodyDownDiffuse.png"
+dest_files=[ "res://.import/BodyDownDiffuse.png-470e3f3d3291b231eddac6095ac7fe86.s3tc.stex", "res://.import/BodyDownDiffuse.png-470e3f3d3291b231eddac6095ac7fe86.etc2.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/BodyUpEmitNormal.png-35f6751b813e2cad06a75bde35cba730.stex"
+path="res://.import/BodyUpEmitNormal.png-80f4c59579aa56f7a20c038fb3e08427.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/SphtSlave/SphtSlaveTextures/BodyUpEmitNormal.png"
-dest_files=[ "res://.import/BodyUpEmitNormal.png-35f6751b813e2cad06a75bde35cba730.stex" ]
+source_file="res://assets/Characters/Models/SphtSlave/SphtSlaveTextures/BodyUpEmitNormal.png"
+dest_files=[ "res://.import/BodyUpEmitNormal.png-80f4c59579aa56f7a20c038fb3e08427.stex" ]
 
 [params]
 

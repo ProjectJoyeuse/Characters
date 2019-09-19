@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/headspecular.png-03b666d6a66a118b6f56bf7134787733.s3tc.stex"
-path.etc2="res://.import/headspecular.png-03b666d6a66a118b6f56bf7134787733.etc2.stex"
+path.s3tc="res://.import/headspecular.png-baf41356391210486555c62d29b59b78.s3tc.stex"
+path.etc2="res://.import/headspecular.png-baf41356391210486555c62d29b59b78.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtSlave/SphtSlaveTextures/headspecular.png"
-dest_files=[ "res://.import/headspecular.png-03b666d6a66a118b6f56bf7134787733.s3tc.stex", "res://.import/headspecular.png-03b666d6a66a118b6f56bf7134787733.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtSlave/SphtSlaveTextures/headspecular.png"
+dest_files=[ "res://.import/headspecular.png-baf41356391210486555c62d29b59b78.s3tc.stex", "res://.import/headspecular.png-baf41356391210486555c62d29b59b78.etc2.stex" ]
 
 [params]
 

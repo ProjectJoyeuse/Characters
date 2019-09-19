@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/normal.tga.001.tga-d4b8cefaf34285a4e260d2c012329b72.s3tc.stex"
-path.etc2="res://.import/normal.tga.001.tga-d4b8cefaf34285a4e260d2c012329b72.etc2.stex"
+path.s3tc="res://.import/normal.tga.001.tga-ad62b9b916a6bdd4c0861d5a9d567457.s3tc.stex"
+path.etc2="res://.import/normal.tga.001.tga-ad62b9b916a6bdd4c0861d5a9d567457.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtSlave/SphtSlaveTextures/normal.tga.001.tga"
-dest_files=[ "res://.import/normal.tga.001.tga-d4b8cefaf34285a4e260d2c012329b72.s3tc.stex", "res://.import/normal.tga.001.tga-d4b8cefaf34285a4e260d2c012329b72.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtSlave/SphtSlaveTextures/normal.tga.001.tga"
+dest_files=[ "res://.import/normal.tga.001.tga-ad62b9b916a6bdd4c0861d5a9d567457.s3tc.stex", "res://.import/normal.tga.001.tga-ad62b9b916a6bdd4c0861d5a9d567457.etc2.stex" ]
 
 [params]
 

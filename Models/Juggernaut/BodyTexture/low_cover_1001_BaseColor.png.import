@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/low_cover_1001_BaseColor.png-f3e3da3a77754752c5df58fb476511ae.s3tc.stex"
-path.etc2="res://.import/low_cover_1001_BaseColor.png-f3e3da3a77754752c5df58fb476511ae.etc2.stex"
+path.s3tc="res://.import/low_cover_1001_BaseColor.png-0414d36f8646e6ade215ee073e81fb53.s3tc.stex"
+path.etc2="res://.import/low_cover_1001_BaseColor.png-0414d36f8646e6ade215ee073e81fb53.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Juggernaut/BodyTexture/low_cover_1001_BaseColor.png"
-dest_files=[ "res://.import/low_cover_1001_BaseColor.png-f3e3da3a77754752c5df58fb476511ae.s3tc.stex", "res://.import/low_cover_1001_BaseColor.png-f3e3da3a77754752c5df58fb476511ae.etc2.stex" ]
+source_file="res://assets/Characters/Models/Juggernaut/BodyTexture/low_cover_1001_BaseColor.png"
+dest_files=[ "res://.import/low_cover_1001_BaseColor.png-0414d36f8646e6ade215ee073e81fb53.s3tc.stex", "res://.import/low_cover_1001_BaseColor.png-0414d36f8646e6ade215ee073e81fb53.etc2.stex" ]
 
 [params]
 

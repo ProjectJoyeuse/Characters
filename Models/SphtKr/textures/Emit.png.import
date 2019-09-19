@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Emit.png-b356bbca79076ac577872324f5055467.s3tc.stex"
-path.etc2="res://.import/Emit.png-b356bbca79076ac577872324f5055467.etc2.stex"
+path.s3tc="res://.import/Emit.png-2d603eb750f5f2e378b056bdad421232.s3tc.stex"
+path.etc2="res://.import/Emit.png-2d603eb750f5f2e378b056bdad421232.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtKr/textures/Emit.png"
-dest_files=[ "res://.import/Emit.png-b356bbca79076ac577872324f5055467.s3tc.stex", "res://.import/Emit.png-b356bbca79076ac577872324f5055467.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtKr/textures/Emit.png"
+dest_files=[ "res://.import/Emit.png-2d603eb750f5f2e378b056bdad421232.s3tc.stex", "res://.import/Emit.png-2d603eb750f5f2e378b056bdad421232.etc2.stex" ]
 
 [params]
 

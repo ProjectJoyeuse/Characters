@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/VacBob4_2_1001_Roughness (2).png-01d748d5950c13c981fb6bb00585f05c.s3tc.stex"
-path.etc2="res://.import/VacBob4_2_1001_Roughness (2).png-01d748d5950c13c981fb6bb00585f05c.etc2.stex"
+path.s3tc="res://.import/VacBob4_2_1001_Roughness (2).png-eafc6ee5f0c56628bccae3c525dbe605.s3tc.stex"
+path.etc2="res://.import/VacBob4_2_1001_Roughness (2).png-eafc6ee5f0c56628bccae3c525dbe605.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/VACBOB/VacBob4_2_1001_Roughness (2).png"
-dest_files=[ "res://.import/VacBob4_2_1001_Roughness (2).png-01d748d5950c13c981fb6bb00585f05c.s3tc.stex", "res://.import/VacBob4_2_1001_Roughness (2).png-01d748d5950c13c981fb6bb00585f05c.etc2.stex" ]
+source_file="res://assets/Characters/Models/VACBOB/VacBob4_2_1001_Roughness (2).png"
+dest_files=[ "res://.import/VacBob4_2_1001_Roughness (2).png-eafc6ee5f0c56628bccae3c525dbe605.s3tc.stex", "res://.import/VacBob4_2_1001_Roughness (2).png-eafc6ee5f0c56628bccae3c525dbe605.etc2.stex" ]
 
 [params]
 

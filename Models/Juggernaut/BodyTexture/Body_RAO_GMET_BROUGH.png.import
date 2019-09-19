@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Body_RAO_GMET_BROUGH.png-70c24f8727edfe75224dee3a1545b4cd.s3tc.stex"
-path.etc2="res://.import/Body_RAO_GMET_BROUGH.png-70c24f8727edfe75224dee3a1545b4cd.etc2.stex"
+path.s3tc="res://.import/Body_RAO_GMET_BROUGH.png-4ed88d2c06436e4ff29aed9d8bcb7e83.s3tc.stex"
+path.etc2="res://.import/Body_RAO_GMET_BROUGH.png-4ed88d2c06436e4ff29aed9d8bcb7e83.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Juggernaut/BodyTexture/Body_RAO_GMET_BROUGH.png"
-dest_files=[ "res://.import/Body_RAO_GMET_BROUGH.png-70c24f8727edfe75224dee3a1545b4cd.s3tc.stex", "res://.import/Body_RAO_GMET_BROUGH.png-70c24f8727edfe75224dee3a1545b4cd.etc2.stex" ]
+source_file="res://assets/Characters/Models/Juggernaut/BodyTexture/Body_RAO_GMET_BROUGH.png"
+dest_files=[ "res://.import/Body_RAO_GMET_BROUGH.png-4ed88d2c06436e4ff29aed9d8bcb7e83.s3tc.stex", "res://.import/Body_RAO_GMET_BROUGH.png-4ed88d2c06436e4ff29aed9d8bcb7e83.etc2.stex" ]
 
 [params]
 

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/specular.tga.000.tga-7803e1eb956ab9ee2492c1b9f0669d4d.s3tc.stex"
-path.etc2="res://.import/specular.tga.000.tga-7803e1eb956ab9ee2492c1b9f0669d4d.etc2.stex"
+path.s3tc="res://.import/specular.tga.000.tga-a721e69fdf753335a1e008e11916ad82.s3tc.stex"
+path.etc2="res://.import/specular.tga.000.tga-a721e69fdf753335a1e008e11916ad82.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtSlave/SphtSlaveTextures/specular.tga.000.tga"
-dest_files=[ "res://.import/specular.tga.000.tga-7803e1eb956ab9ee2492c1b9f0669d4d.s3tc.stex", "res://.import/specular.tga.000.tga-7803e1eb956ab9ee2492c1b9f0669d4d.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtSlave/SphtSlaveTextures/specular.tga.000.tga"
+dest_files=[ "res://.import/specular.tga.000.tga-a721e69fdf753335a1e008e11916ad82.s3tc.stex", "res://.import/specular.tga.000.tga-a721e69fdf753335a1e008e11916ad82.etc2.stex" ]
 
 [params]
 

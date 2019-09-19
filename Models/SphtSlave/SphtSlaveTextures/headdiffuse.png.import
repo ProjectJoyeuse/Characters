@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/headdiffuse.png-2113198615f1f4997bf3cad6ce159bbb.s3tc.stex"
-path.etc2="res://.import/headdiffuse.png-2113198615f1f4997bf3cad6ce159bbb.etc2.stex"
+path.s3tc="res://.import/headdiffuse.png-a8e3ffc20f31f50bd48bd1e65846e173.s3tc.stex"
+path.etc2="res://.import/headdiffuse.png-a8e3ffc20f31f50bd48bd1e65846e173.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtSlave/SphtSlaveTextures/headdiffuse.png"
-dest_files=[ "res://.import/headdiffuse.png-2113198615f1f4997bf3cad6ce159bbb.s3tc.stex", "res://.import/headdiffuse.png-2113198615f1f4997bf3cad6ce159bbb.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtSlave/SphtSlaveTextures/headdiffuse.png"
+dest_files=[ "res://.import/headdiffuse.png-a8e3ffc20f31f50bd48bd1e65846e173.s3tc.stex", "res://.import/headdiffuse.png-a8e3ffc20f31f50bd48bd1e65846e173.etc2.stex" ]
 
 [params]
 

@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/SphtKR.dae-a38a1d4dba9ced6adb4827eeabe664cb.scn"
+path="res://.import/SphtKR.dae-d4631fdb5aaa3c11e1426cd46ab8c625.scn"
 
 [deps]
 
-source_file="res://BaseGD/Characters/SphtKr/SphtKR.dae"
-dest_files=[ "res://.import/SphtKR.dae-a38a1d4dba9ced6adb4827eeabe664cb.scn" ]
+source_file="res://assets/Characters/Models/SphtKr/SphtKR.dae"
+dest_files=[ "res://.import/SphtKR.dae-d4631fdb5aaa3c11e1426cd46ab8c625.scn" ]
 
 [params]
 

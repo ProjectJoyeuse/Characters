@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/armor_DIFF.png-de0ff9220add6bd2ddd17f8afc7cbb04.s3tc.stex"
-path.etc2="res://.import/armor_DIFF.png-de0ff9220add6bd2ddd17f8afc7cbb04.etc2.stex"
+path.s3tc="res://.import/armor_DIFF.png-75a1cdf2884c63e85b2caa7c07ca9141.s3tc.stex"
+path.etc2="res://.import/armor_DIFF.png-75a1cdf2884c63e85b2caa7c07ca9141.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://BaseGD/Characters/Pfhor/PfhorTXT/armor_DIFF.png"
-dest_files=[ "res://.import/armor_DIFF.png-de0ff9220add6bd2ddd17f8afc7cbb04.s3tc.stex", "res://.import/armor_DIFF.png-de0ff9220add6bd2ddd17f8afc7cbb04.etc2.stex" ]
+source_file="res://assets/Characters/Models/Pfhor/PfhorTXT/armor_DIFF.png"
+dest_files=[ "res://.import/armor_DIFF.png-75a1cdf2884c63e85b2caa7c07ca9141.s3tc.stex", "res://.import/armor_DIFF.png-75a1cdf2884c63e85b2caa7c07ca9141.etc2.stex" ]
 
 [params]
 

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/cyborgheadnormal.png-1657833f04cd7ec833ae79ba7d7887f0.s3tc.stex"
-path.etc2="res://.import/cyborgheadnormal.png-1657833f04cd7ec833ae79ba7d7887f0.etc2.stex"
+path.s3tc="res://.import/cyborgheadnormal.png-ba74a449a20254d570bb81579e58a8bb.s3tc.stex"
+path.etc2="res://.import/cyborgheadnormal.png-ba74a449a20254d570bb81579e58a8bb.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtSlave/SphtSlaveTextures/cyborgheadnormal.png"
-dest_files=[ "res://.import/cyborgheadnormal.png-1657833f04cd7ec833ae79ba7d7887f0.s3tc.stex", "res://.import/cyborgheadnormal.png-1657833f04cd7ec833ae79ba7d7887f0.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtSlave/SphtSlaveTextures/cyborgheadnormal.png"
+dest_files=[ "res://.import/cyborgheadnormal.png-ba74a449a20254d570bb81579e58a8bb.s3tc.stex", "res://.import/cyborgheadnormal.png-ba74a449a20254d570bb81579e58a8bb.etc2.stex" ]
 
 [params]
 

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/VacBob4_2_1001_Metallic (2).png-2a9a70c737c9a47b92fbc4b0f2434c37.s3tc.stex"
-path.etc2="res://.import/VacBob4_2_1001_Metallic (2).png-2a9a70c737c9a47b92fbc4b0f2434c37.etc2.stex"
+path.s3tc="res://.import/VacBob4_2_1001_Metallic (2).png-aa4d18dedec93221d5e68555fea35d73.s3tc.stex"
+path.etc2="res://.import/VacBob4_2_1001_Metallic (2).png-aa4d18dedec93221d5e68555fea35d73.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/VACBOB/VacBob4_2_1001_Metallic (2).png"
-dest_files=[ "res://.import/VacBob4_2_1001_Metallic (2).png-2a9a70c737c9a47b92fbc4b0f2434c37.s3tc.stex", "res://.import/VacBob4_2_1001_Metallic (2).png-2a9a70c737c9a47b92fbc4b0f2434c37.etc2.stex" ]
+source_file="res://assets/Characters/Models/VACBOB/VacBob4_2_1001_Metallic (2).png"
+dest_files=[ "res://.import/VacBob4_2_1001_Metallic (2).png-aa4d18dedec93221d5e68555fea35d73.s3tc.stex", "res://.import/VacBob4_2_1001_Metallic (2).png-aa4d18dedec93221d5e68555fea35d73.etc2.stex" ]
 
 [params]
 

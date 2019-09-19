@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Officer.dae-cd95e6e9c43985e3189b382dd3fac7dc.scn"
+path="res://.import/Officer.dae-e9e62dca9949726a6b4394ba9d625bfd.scn"
 
 [deps]
 
-source_file="res://Models/Officer/Officer.dae"
-dest_files=[ "res://.import/Officer.dae-cd95e6e9c43985e3189b382dd3fac7dc.scn" ]
+source_file="res://assets/Characters/Models/Officer/Officer.dae"
+dest_files=[ "res://.import/Officer.dae-e9e62dca9949726a6b4394ba9d625bfd.scn" ]
 
 [params]
 

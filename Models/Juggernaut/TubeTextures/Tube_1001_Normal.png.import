@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Tube_1001_Normal.png-55b9fcfde9350f3dd7f0afcedf6cb890.s3tc.stex"
-path.etc2="res://.import/Tube_1001_Normal.png-55b9fcfde9350f3dd7f0afcedf6cb890.etc2.stex"
+path.s3tc="res://.import/Tube_1001_Normal.png-2afc9544f2af0fc30aaac203c96a2653.s3tc.stex"
+path.etc2="res://.import/Tube_1001_Normal.png-2afc9544f2af0fc30aaac203c96a2653.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Juggernaut/TubeTextures/Tube_1001_Normal.png"
-dest_files=[ "res://.import/Tube_1001_Normal.png-55b9fcfde9350f3dd7f0afcedf6cb890.s3tc.stex", "res://.import/Tube_1001_Normal.png-55b9fcfde9350f3dd7f0afcedf6cb890.etc2.stex" ]
+source_file="res://assets/Characters/Models/Juggernaut/TubeTextures/Tube_1001_Normal.png"
+dest_files=[ "res://.import/Tube_1001_Normal.png-2afc9544f2af0fc30aaac203c96a2653.s3tc.stex", "res://.import/Tube_1001_Normal.png-2afc9544f2af0fc30aaac203c96a2653.etc2.stex" ]
 
 [params]
 

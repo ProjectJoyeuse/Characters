@@ -2,13 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Mat1_Normal.png-a0a30b89243b541ebe1a42da80987fc8.s3tc.stex"
-path.etc2="res://.import/Mat1_Normal.png-a0a30b89243b541ebe1a42da80987fc8.etc2.stex"
+path.s3tc="res://.import/Mat1_Normal.png-b82374b266d1b6c9975e98c308dda24b.s3tc.stex"
+path.etc2="res://.import/Mat1_Normal.png-b82374b266d1b6c9975e98c308dda24b.etc2.stex"
+metadata={
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
+}
 
 [deps]
 
-source_file="res://Models/Officer/Mat1_Normal.png"
-dest_files=[ "res://.import/Mat1_Normal.png-a0a30b89243b541ebe1a42da80987fc8.s3tc.stex", "res://.import/Mat1_Normal.png-a0a30b89243b541ebe1a42da80987fc8.etc2.stex" ]
+source_file="res://assets/Characters/Models/Officer/Mat1_Normal.png"
+dest_files=[ "res://.import/Mat1_Normal.png-b82374b266d1b6c9975e98c308dda24b.s3tc.stex", "res://.import/Mat1_Normal.png-b82374b266d1b6c9975e98c308dda24b.etc2.stex" ]
 
 [params]
 

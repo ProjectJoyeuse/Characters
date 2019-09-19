@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Jugg.dae-e445585fc6c64ac957cfd938bf87c1e4.scn"
+path="res://.import/Jugg.dae-087487a8f4a1992965aa51548e19045a.scn"
 
 [deps]
 
-source_file="res://assets/Characters/Juggernaut/Jugg.dae"
-dest_files=[ "res://.import/Jugg.dae-e445585fc6c64ac957cfd938bf87c1e4.scn" ]
+source_file="res://assets/Characters/Models/Juggernaut/Jugg.dae"
+dest_files=[ "res://.import/Jugg.dae-087487a8f4a1992965aa51548e19045a.scn" ]
 
 [params]
 

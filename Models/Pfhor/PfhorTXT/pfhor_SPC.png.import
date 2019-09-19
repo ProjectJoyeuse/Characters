@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/pfhor_SPC.png-576fd1261224bd8fd3d15d8cda005c55.s3tc.stex"
-path.etc2="res://.import/pfhor_SPC.png-576fd1261224bd8fd3d15d8cda005c55.etc2.stex"
+path.s3tc="res://.import/pfhor_SPC.png-62c21fe2c254a32aa5628c4f6bb57d6a.s3tc.stex"
+path.etc2="res://.import/pfhor_SPC.png-62c21fe2c254a32aa5628c4f6bb57d6a.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Pfhor/PfhorTXT/pfhor_SPC.png"
-dest_files=[ "res://.import/pfhor_SPC.png-576fd1261224bd8fd3d15d8cda005c55.s3tc.stex", "res://.import/pfhor_SPC.png-576fd1261224bd8fd3d15d8cda005c55.etc2.stex" ]
+source_file="res://assets/Characters/Models/Pfhor/PfhorTXT/pfhor_SPC.png"
+dest_files=[ "res://.import/pfhor_SPC.png-62c21fe2c254a32aa5628c4f6bb57d6a.s3tc.stex", "res://.import/pfhor_SPC.png-62c21fe2c254a32aa5628c4f6bb57d6a.etc2.stex" ]
 
 [params]
 

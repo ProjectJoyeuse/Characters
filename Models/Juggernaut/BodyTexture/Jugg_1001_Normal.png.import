@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Jugg_1001_Normal.png-12b3348739b5d13845d08fefff5ce97b.s3tc.stex"
-path.etc2="res://.import/Jugg_1001_Normal.png-12b3348739b5d13845d08fefff5ce97b.etc2.stex"
+path.s3tc="res://.import/Jugg_1001_Normal.png-f6433cb4b5f6370cc0aa52bf0dfc3577.s3tc.stex"
+path.etc2="res://.import/Jugg_1001_Normal.png-f6433cb4b5f6370cc0aa52bf0dfc3577.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Juggernaut/BodyTexture/Jugg_1001_Normal.png"
-dest_files=[ "res://.import/Jugg_1001_Normal.png-12b3348739b5d13845d08fefff5ce97b.s3tc.stex", "res://.import/Jugg_1001_Normal.png-12b3348739b5d13845d08fefff5ce97b.etc2.stex" ]
+source_file="res://assets/Characters/Models/Juggernaut/BodyTexture/Jugg_1001_Normal.png"
+dest_files=[ "res://.import/Jugg_1001_Normal.png-f6433cb4b5f6370cc0aa52bf0dfc3577.s3tc.stex", "res://.import/Jugg_1001_Normal.png-f6433cb4b5f6370cc0aa52bf0dfc3577.etc2.stex" ]
 
 [params]
 

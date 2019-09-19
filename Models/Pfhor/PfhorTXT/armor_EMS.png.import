@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/armor_EMS.png-f38d0db8661f1218de8969e84306c0de.s3tc.stex"
-path.etc2="res://.import/armor_EMS.png-f38d0db8661f1218de8969e84306c0de.etc2.stex"
+path.s3tc="res://.import/armor_EMS.png-db2751bd97a338d9dfe5c6515b3c08f9.s3tc.stex"
+path.etc2="res://.import/armor_EMS.png-db2751bd97a338d9dfe5c6515b3c08f9.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://BaseGD/Characters/Pfhor/PfhorTXT/armor_EMS.png"
-dest_files=[ "res://.import/armor_EMS.png-f38d0db8661f1218de8969e84306c0de.s3tc.stex", "res://.import/armor_EMS.png-f38d0db8661f1218de8969e84306c0de.etc2.stex" ]
+source_file="res://assets/Characters/Models/Pfhor/PfhorTXT/armor_EMS.png"
+dest_files=[ "res://.import/armor_EMS.png-db2751bd97a338d9dfe5c6515b3c08f9.s3tc.stex", "res://.import/armor_EMS.png-db2751bd97a338d9dfe5c6515b3c08f9.etc2.stex" ]
 
 [params]
 

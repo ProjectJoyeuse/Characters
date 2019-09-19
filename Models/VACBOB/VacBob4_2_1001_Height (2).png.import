@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/VacBob4_2_1001_Height (2).png-8fda1b21e97fa14a160c441de834b81b.stex"
+path="res://.import/VacBob4_2_1001_Height (2).png-70fcaa61de3a82e980a2fae334d7cd4b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Characters/VACBOB/VacBob4_2_1001_Height (2).png"
-dest_files=[ "res://.import/VacBob4_2_1001_Height (2).png-8fda1b21e97fa14a160c441de834b81b.stex" ]
+source_file="res://assets/Characters/Models/VACBOB/VacBob4_2_1001_Height (2).png"
+dest_files=[ "res://.import/VacBob4_2_1001_Height (2).png-70fcaa61de3a82e980a2fae334d7cd4b.stex" ]
 
 [params]
 

@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/SphtFace.png-f71cf033bcfc1c69410d9e4f46ea8cac.s3tc.stex"
-path.etc2="res://.import/SphtFace.png-f71cf033bcfc1c69410d9e4f46ea8cac.etc2.stex"
+path.s3tc="res://.import/SphtFace.png-667836ce51ed9518ee009345f9b18a7a.s3tc.stex"
+path.etc2="res://.import/SphtFace.png-667836ce51ed9518ee009345f9b18a7a.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtKr/textures/SphtFace.png"
-dest_files=[ "res://.import/SphtFace.png-f71cf033bcfc1c69410d9e4f46ea8cac.s3tc.stex", "res://.import/SphtFace.png-f71cf033bcfc1c69410d9e4f46ea8cac.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtKr/textures/SphtFace.png"
+dest_files=[ "res://.import/SphtFace.png-667836ce51ed9518ee009345f9b18a7a.s3tc.stex", "res://.import/SphtFace.png-667836ce51ed9518ee009345f9b18a7a.etc2.stex" ]
 
 [params]
 

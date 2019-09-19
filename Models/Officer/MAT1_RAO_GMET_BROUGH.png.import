@@ -2,13 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/MAT1_RAO_GMET_BROUGH.png-f1064ed96fca3753e3ddb98ce2a9e436.s3tc.stex"
-path.etc2="res://.import/MAT1_RAO_GMET_BROUGH.png-f1064ed96fca3753e3ddb98ce2a9e436.etc2.stex"
+path.s3tc="res://.import/MAT1_RAO_GMET_BROUGH.png-3a5cec64de09fa9ab9b59527bb04203e.s3tc.stex"
+path.etc2="res://.import/MAT1_RAO_GMET_BROUGH.png-3a5cec64de09fa9ab9b59527bb04203e.etc2.stex"
+metadata={
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
+}
 
 [deps]
 
-source_file="res://Models/Officer/MAT1_RAO_GMET_BROUGH.png"
-dest_files=[ "res://.import/MAT1_RAO_GMET_BROUGH.png-f1064ed96fca3753e3ddb98ce2a9e436.s3tc.stex", "res://.import/MAT1_RAO_GMET_BROUGH.png-f1064ed96fca3753e3ddb98ce2a9e436.etc2.stex" ]
+source_file="res://assets/Characters/Models/Officer/MAT1_RAO_GMET_BROUGH.png"
+dest_files=[ "res://.import/MAT1_RAO_GMET_BROUGH.png-3a5cec64de09fa9ab9b59527bb04203e.s3tc.stex", "res://.import/MAT1_RAO_GMET_BROUGH.png-3a5cec64de09fa9ab9b59527bb04203e.etc2.stex" ]
 
 [params]
 

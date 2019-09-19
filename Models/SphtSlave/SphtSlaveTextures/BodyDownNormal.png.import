@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/BodyDownNormal.png-2d9999f2cb0691cb7321962529a5b3cc.s3tc.stex"
-path.etc2="res://.import/BodyDownNormal.png-2d9999f2cb0691cb7321962529a5b3cc.etc2.stex"
+path.s3tc="res://.import/BodyDownNormal.png-dea504ad424b9757b2176a4c4112a917.s3tc.stex"
+path.etc2="res://.import/BodyDownNormal.png-dea504ad424b9757b2176a4c4112a917.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/SphtSlave/SphtSlaveTextures/BodyDownNormal.png"
-dest_files=[ "res://.import/BodyDownNormal.png-2d9999f2cb0691cb7321962529a5b3cc.s3tc.stex", "res://.import/BodyDownNormal.png-2d9999f2cb0691cb7321962529a5b3cc.etc2.stex" ]
+source_file="res://assets/Characters/Models/SphtSlave/SphtSlaveTextures/BodyDownNormal.png"
+dest_files=[ "res://.import/BodyDownNormal.png-dea504ad424b9757b2176a4c4112a917.s3tc.stex", "res://.import/BodyDownNormal.png-dea504ad424b9757b2176a4c4112a917.etc2.stex" ]
 
 [params]
 
