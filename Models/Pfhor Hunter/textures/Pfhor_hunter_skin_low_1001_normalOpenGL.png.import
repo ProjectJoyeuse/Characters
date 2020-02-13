@@ -1,0 +1,36 @@
+[remap]
+
+importer="texture"
+type="StreamTexture"
+path.s3tc="res://.import/Pfhor_hunter_skin_low_1001_normalOpenGL.png-bcf986ad3b7068fbbe53b3b6ab62ed55.s3tc.stex"
+path.etc2="res://.import/Pfhor_hunter_skin_low_1001_normalOpenGL.png-bcf986ad3b7068fbbe53b3b6ab62ed55.etc2.stex"
+metadata={
+"imported_formats": [ "s3tc", "etc2" ],
+"vram_texture": true
+}
+
+[deps]
+
+source_file="res://assets/Characters/Models/Pfhor Hunter/textures/Pfhor_hunter_skin_low_1001_normalOpenGL.png"
+dest_files=[ "res://.import/Pfhor_hunter_skin_low_1001_normalOpenGL.png-bcf986ad3b7068fbbe53b3b6ab62ed55.s3tc.stex", "res://.import/Pfhor_hunter_skin_low_1001_normalOpenGL.png-bcf986ad3b7068fbbe53b3b6ab62ed55.etc2.stex" ]
+
+[params]
+
+compress/mode=2
+compress/lossy_quality=0.7
+compress/hdr_mode=0
+compress/bptc_ldr=0
+compress/normal_map=1
+flags/repeat=true
+flags/filter=true
+flags/mipmaps=true
+flags/anisotropic=false
+flags/srgb=2
+process/fix_alpha_border=true
+process/premult_alpha=false
+process/HDR_as_SRGB=false
+process/invert_color=false
+stream=false
+size_limit=0
+detect_3d=false
+svg/scale=1.0
