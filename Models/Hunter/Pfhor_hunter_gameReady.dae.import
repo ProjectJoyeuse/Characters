@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Pfhor_hunter_gameReady.dae-e21f2b4665fba5dcc26f4a6c7808f85c.scn"
+path="res://.import/Pfhor_hunter_gameReady.dae-f4a4aed3dcee26b90fd73f5c6163fe8e.scn"
 
 [deps]
 
-source_file="res://assets/Characters/Models/Pfhor Hunter/Pfhor_hunter_gameReady.dae"
-dest_files=[ "res://.import/Pfhor_hunter_gameReady.dae-e21f2b4665fba5dcc26f4a6c7808f85c.scn" ]
+source_file="res://assets/Characters/Models/Hunter/Pfhor_hunter_gameReady.dae"
+dest_files=[ "res://.import/Pfhor_hunter_gameReady.dae-f4a4aed3dcee26b90fd73f5c6163fe8e.scn" ]
 
 [params]
 

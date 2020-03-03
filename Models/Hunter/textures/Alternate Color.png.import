@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Alternate Color.png-02b2b768a90bfd0722ad8c8e8974a985.s3tc.stex"
-path.etc2="res://.import/Alternate Color.png-02b2b768a90bfd0722ad8c8e8974a985.etc2.stex"
+path.s3tc="res://.import/Alternate Color.png-1522291804cbcee70ce168c4c69e63d3.s3tc.stex"
+path.etc2="res://.import/Alternate Color.png-1522291804cbcee70ce168c4c69e63d3.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Models/Pfhor Hunter/textures/Alternate Color.png"
-dest_files=[ "res://.import/Alternate Color.png-02b2b768a90bfd0722ad8c8e8974a985.s3tc.stex", "res://.import/Alternate Color.png-02b2b768a90bfd0722ad8c8e8974a985.etc2.stex" ]
+source_file="res://assets/Characters/Models/Hunter/textures/Alternate Color.png"
+dest_files=[ "res://.import/Alternate Color.png-1522291804cbcee70ce168c4c69e63d3.s3tc.stex", "res://.import/Alternate Color.png-1522291804cbcee70ce168c4c69e63d3.etc2.stex" ]
 
 [params]
 
