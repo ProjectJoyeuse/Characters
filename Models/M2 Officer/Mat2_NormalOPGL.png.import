@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Mat2_NormalOPGL.png-9c6fc464633c7a8e108bc8ba276a617a.s3tc.stex"
-path.etc2="res://.import/Mat2_NormalOPGL.png-9c6fc464633c7a8e108bc8ba276a617a.etc2.stex"
+path.s3tc="res://.import/Mat2_NormalOPGL.png-749ad7ab3666058768ef9d431a0dd8c6.s3tc.stex"
+path.etc2="res://.import/Mat2_NormalOPGL.png-749ad7ab3666058768ef9d431a0dd8c6.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Models/Officer/Mat2_NormalOPGL.png"
-dest_files=[ "res://.import/Mat2_NormalOPGL.png-9c6fc464633c7a8e108bc8ba276a617a.s3tc.stex", "res://.import/Mat2_NormalOPGL.png-9c6fc464633c7a8e108bc8ba276a617a.etc2.stex" ]
+source_file="res://assets/Characters/Models/M2 Officer/Mat2_NormalOPGL.png"
+dest_files=[ "res://.import/Mat2_NormalOPGL.png-749ad7ab3666058768ef9d431a0dd8c6.s3tc.stex", "res://.import/Mat2_NormalOPGL.png-749ad7ab3666058768ef9d431a0dd8c6.etc2.stex" ]
 
 [params]
 

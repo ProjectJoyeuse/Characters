@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Mat2_RAO_GMET_BROUGH.png-17400adf863875aecf3504fa8e781064.s3tc.stex"
-path.etc2="res://.import/Mat2_RAO_GMET_BROUGH.png-17400adf863875aecf3504fa8e781064.etc2.stex"
+path.s3tc="res://.import/Mat1_Normal.png-9de54250f0b2b835df9ddce9f778cdab.s3tc.stex"
+path.etc2="res://.import/Mat1_Normal.png-9de54250f0b2b835df9ddce9f778cdab.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Models/Officer/Mat2_RAO_GMET_BROUGH.png"
-dest_files=[ "res://.import/Mat2_RAO_GMET_BROUGH.png-17400adf863875aecf3504fa8e781064.s3tc.stex", "res://.import/Mat2_RAO_GMET_BROUGH.png-17400adf863875aecf3504fa8e781064.etc2.stex" ]
+source_file="res://assets/Characters/Models/M2 Officer/Mat1_Normal.png"
+dest_files=[ "res://.import/Mat1_Normal.png-9de54250f0b2b835df9ddce9f778cdab.s3tc.stex", "res://.import/Mat1_Normal.png-9de54250f0b2b835df9ddce9f778cdab.etc2.stex" ]
 
 [params]
 
@@ -20,7 +20,7 @@ compress/mode=2
 compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/bptc_ldr=0
-compress/normal_map=0
+compress/normal_map=1
 flags/repeat=true
 flags/filter=true
 flags/mipmaps=true

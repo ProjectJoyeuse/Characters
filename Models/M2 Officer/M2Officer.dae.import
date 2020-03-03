@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Enforcer_game_ready.dae-1e9fa51e9dad52cd20ac1e27f6f43ba0.scn"
+path="res://.import/M2Officer.dae-ba8b2d2d8506b44671116041d2469632.scn"
 
 [deps]
 
-source_file="res://assets/Characters/Pfhor Enforcer/Enforcer_game_ready.dae"
-dest_files=[ "res://.import/Enforcer_game_ready.dae-1e9fa51e9dad52cd20ac1e27f6f43ba0.scn" ]
+source_file="res://assets/Characters/Models/M2 Officer/M2Officer.dae"
+dest_files=[ "res://.import/M2Officer.dae-ba8b2d2d8506b44671116041d2469632.scn" ]
 
 [params]
 

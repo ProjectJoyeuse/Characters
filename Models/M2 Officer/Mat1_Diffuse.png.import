@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Mat1_Diffuse.png-aba49276656a8dc5c99754fd1463c7fa.s3tc.stex"
-path.etc2="res://.import/Mat1_Diffuse.png-aba49276656a8dc5c99754fd1463c7fa.etc2.stex"
+path.s3tc="res://.import/Mat1_Diffuse.png-c407dab966fe48cf275b7b818de8cd49.s3tc.stex"
+path.etc2="res://.import/Mat1_Diffuse.png-c407dab966fe48cf275b7b818de8cd49.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Models/Officer/Mat1_Diffuse.png"
-dest_files=[ "res://.import/Mat1_Diffuse.png-aba49276656a8dc5c99754fd1463c7fa.s3tc.stex", "res://.import/Mat1_Diffuse.png-aba49276656a8dc5c99754fd1463c7fa.etc2.stex" ]
+source_file="res://assets/Characters/Models/M2 Officer/Mat1_Diffuse.png"
+dest_files=[ "res://.import/Mat1_Diffuse.png-c407dab966fe48cf275b7b818de8cd49.s3tc.stex", "res://.import/Mat1_Diffuse.png-c407dab966fe48cf275b7b818de8cd49.etc2.stex" ]
 
 [params]
 
