@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Norm.png-b22b960a8df5456b766c444c2a04e519.s3tc.stex"
-path.etc2="res://.import/Norm.png-b22b960a8df5456b766c444c2a04e519.etc2.stex"
+path.s3tc="res://.import/Enforcer_low_1001_normalOpenGL.png-53c01ec8e09e29720a0092f11069b6f9.s3tc.stex"
+path.etc2="res://.import/Enforcer_low_1001_normalOpenGL.png-53c01ec8e09e29720a0092f11069b6f9.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Models/SphtKr/textures/Norm.png"
-dest_files=[ "res://.import/Norm.png-b22b960a8df5456b766c444c2a04e519.s3tc.stex", "res://.import/Norm.png-b22b960a8df5456b766c444c2a04e519.etc2.stex" ]
+source_file="res://assets/Characters/Models/Enforcer/Enforcer_low_1001_normalOpenGL.png"
+dest_files=[ "res://.import/Enforcer_low_1001_normalOpenGL.png-53c01ec8e09e29720a0092f11069b6f9.s3tc.stex", "res://.import/Enforcer_low_1001_normalOpenGL.png-53c01ec8e09e29720a0092f11069b6f9.etc2.stex" ]
 
 [params]
 

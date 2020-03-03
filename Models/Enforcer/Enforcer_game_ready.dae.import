@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/SphtSlave.dae-dfeab55cc6ed6017f65a4b957429183a.scn"
+path="res://.import/Enforcer_game_ready.dae-d8a30862031075fba2d733879c316b38.scn"
 
 [deps]
 
-source_file="res://assets/Characters/Models/SphtSlave/Shapes/SphtSlave.dae"
-dest_files=[ "res://.import/SphtSlave.dae-dfeab55cc6ed6017f65a4b957429183a.scn" ]
+source_file="res://assets/Characters/Models/Enforcer/Enforcer_game_ready.dae"
+dest_files=[ "res://.import/Enforcer_game_ready.dae-d8a30862031075fba2d733879c316b38.scn" ]
 
 [params]
 
