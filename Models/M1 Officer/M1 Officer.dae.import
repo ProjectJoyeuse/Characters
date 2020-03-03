@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Officer.dae-e9e62dca9949726a6b4394ba9d625bfd.scn"
+path="res://.import/M1 Officer.dae-6d612af772fae2bdc185c7f016c20ab4.scn"
 
 [deps]
 
-source_file="res://assets/Characters/Models/Officer/Officer.dae"
-dest_files=[ "res://.import/Officer.dae-e9e62dca9949726a6b4394ba9d625bfd.scn" ]
+source_file="res://assets/Characters/Models/M1 Officer/M1 Officer.dae"
+dest_files=[ "res://.import/M1 Officer.dae-6d612af772fae2bdc185c7f016c20ab4.scn" ]
 
 [params]
 

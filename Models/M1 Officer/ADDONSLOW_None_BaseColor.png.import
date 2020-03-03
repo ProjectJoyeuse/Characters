@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/VacBob5_1001_Metallic.png-6cdb17f53b8df45cb68b237d576f6da5.s3tc.stex"
-path.etc2="res://.import/VacBob5_1001_Metallic.png-6cdb17f53b8df45cb68b237d576f6da5.etc2.stex"
+path.s3tc="res://.import/ADDONSLOW_None_BaseColor.png-e8314069402b95ba43d5ebad27072919.s3tc.stex"
+path.etc2="res://.import/ADDONSLOW_None_BaseColor.png-e8314069402b95ba43d5ebad27072919.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Models/VACBOB/VacBob5_1001_Metallic.png"
-dest_files=[ "res://.import/VacBob5_1001_Metallic.png-6cdb17f53b8df45cb68b237d576f6da5.s3tc.stex", "res://.import/VacBob5_1001_Metallic.png-6cdb17f53b8df45cb68b237d576f6da5.etc2.stex" ]
+source_file="res://assets/Characters/Models/M1 Officer/ADDONSLOW_None_BaseColor.png"
+dest_files=[ "res://.import/ADDONSLOW_None_BaseColor.png-e8314069402b95ba43d5ebad27072919.s3tc.stex", "res://.import/ADDONSLOW_None_BaseColor.png-e8314069402b95ba43d5ebad27072919.etc2.stex" ]
 
 [params]
 
@@ -25,7 +25,7 @@ flags/repeat=true
 flags/filter=true
 flags/mipmaps=true
 flags/anisotropic=false
-flags/srgb=2
+flags/srgb=1
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false
