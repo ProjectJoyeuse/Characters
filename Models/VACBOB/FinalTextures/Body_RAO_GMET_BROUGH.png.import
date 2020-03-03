@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/VacBob5_1001_AO.png-01491d2520f3be7b2432fe1ee7c343f0.s3tc.stex"
-path.etc2="res://.import/VacBob5_1001_AO.png-01491d2520f3be7b2432fe1ee7c343f0.etc2.stex"
+path.s3tc="res://.import/Body_RAO_GMET_BROUGH.png-d55c7c8b5e532a0cb12b24fd4ca1ff31.s3tc.stex"
+path.etc2="res://.import/Body_RAO_GMET_BROUGH.png-d55c7c8b5e532a0cb12b24fd4ca1ff31.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Models/VACBOB/VacBob5_1001_AO.png"
-dest_files=[ "res://.import/VacBob5_1001_AO.png-01491d2520f3be7b2432fe1ee7c343f0.s3tc.stex", "res://.import/VacBob5_1001_AO.png-01491d2520f3be7b2432fe1ee7c343f0.etc2.stex" ]
+source_file="res://assets/Characters/Models/VACBOB/FinalTextures/Body_RAO_GMET_BROUGH.png"
+dest_files=[ "res://.import/Body_RAO_GMET_BROUGH.png-d55c7c8b5e532a0cb12b24fd4ca1ff31.s3tc.stex", "res://.import/Body_RAO_GMET_BROUGH.png-d55c7c8b5e532a0cb12b24fd4ca1ff31.etc2.stex" ]
 
 [params]
 

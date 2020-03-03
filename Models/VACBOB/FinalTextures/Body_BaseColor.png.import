@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/SphtFaceNormals.png-644beb020018311a8e988688ffab65e2.s3tc.stex"
-path.etc2="res://.import/SphtFaceNormals.png-644beb020018311a8e988688ffab65e2.etc2.stex"
+path.s3tc="res://.import/Body_BaseColor.png-4706c61e85a0f03e00e965a8559cb441.s3tc.stex"
+path.etc2="res://.import/Body_BaseColor.png-4706c61e85a0f03e00e965a8559cb441.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Models/SphtKr/textures/SphtFaceNormals.png"
-dest_files=[ "res://.import/SphtFaceNormals.png-644beb020018311a8e988688ffab65e2.s3tc.stex", "res://.import/SphtFaceNormals.png-644beb020018311a8e988688ffab65e2.etc2.stex" ]
+source_file="res://assets/Characters/Models/VACBOB/FinalTextures/Body_BaseColor.png"
+dest_files=[ "res://.import/Body_BaseColor.png-4706c61e85a0f03e00e965a8559cb441.s3tc.stex", "res://.import/Body_BaseColor.png-4706c61e85a0f03e00e965a8559cb441.etc2.stex" ]
 
 [params]
 
@@ -20,12 +20,12 @@ compress/mode=2
 compress/lossy_quality=0.7
 compress/hdr_mode=0
 compress/bptc_ldr=0
-compress/normal_map=1
+compress/normal_map=0
 flags/repeat=true
 flags/filter=true
 flags/mipmaps=true
 flags/anisotropic=false
-flags/srgb=2
+flags/srgb=1
 process/fix_alpha_border=true
 process/premult_alpha=false
 process/HDR_as_SRGB=false

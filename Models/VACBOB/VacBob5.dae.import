@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Pfhor.glb-08fb52776e5c9a7704166c9231040618.scn"
+path="res://.import/VacBob5.dae-9628fc0d78d7ca3d25f13593ce55f5b7.scn"
 
 [deps]
 
-source_file="res://assets/Characters/Models/Pfhor Trooper_Fighter/Pfhor.glb"
-dest_files=[ "res://.import/Pfhor.glb-08fb52776e5c9a7704166c9231040618.scn" ]
+source_file="res://assets/Characters/Models/VACBOB/VacBob5.dae"
+dest_files=[ "res://.import/VacBob5.dae-9628fc0d78d7ca3d25f13593ce55f5b7.scn" ]
 
 [params]
 
