@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/Masking_RGB.png-51261162c7f2f817d95fdc3d76e38ddf.s3tc.stex"
-path.etc2="res://.import/Masking_RGB.png-51261162c7f2f817d95fdc3d76e38ddf.etc2.stex"
+path.s3tc="res://.import/Jugg_1001_BaseColor.png-924cdfc7e8e96698d987f4a50eac3a0e.s3tc.stex"
+path.etc2="res://.import/Jugg_1001_BaseColor.png-924cdfc7e8e96698d987f4a50eac3a0e.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Models/Pfhor Trooper_Fighter/textures/Masking_RGB.png"
-dest_files=[ "res://.import/Masking_RGB.png-51261162c7f2f817d95fdc3d76e38ddf.s3tc.stex", "res://.import/Masking_RGB.png-51261162c7f2f817d95fdc3d76e38ddf.etc2.stex" ]
+source_file="res://assets/Characters/Models/Juggernaut/BodyTexture/Jugg_1001_BaseColor.png"
+dest_files=[ "res://.import/Jugg_1001_BaseColor.png-924cdfc7e8e96698d987f4a50eac3a0e.s3tc.stex", "res://.import/Jugg_1001_BaseColor.png-924cdfc7e8e96698d987f4a50eac3a0e.etc2.stex" ]
 
 [params]
 

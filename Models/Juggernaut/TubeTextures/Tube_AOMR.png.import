@@ -2,8 +2,8 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/PaintingMask.png-682fe1f29d5ecb57a11bb8c73959607e.s3tc.stex"
-path.etc2="res://.import/PaintingMask.png-682fe1f29d5ecb57a11bb8c73959607e.etc2.stex"
+path.s3tc="res://.import/Tube_AOMR.png-797090369d648e1cf7054c817b9b10b0.s3tc.stex"
+path.etc2="res://.import/Tube_AOMR.png-797090369d648e1cf7054c817b9b10b0.etc2.stex"
 metadata={
 "imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
@@ -11,8 +11,8 @@ metadata={
 
 [deps]
 
-source_file="res://assets/Characters/Models/Pfhor Trooper_Fighter/textures/PaintingMask.png"
-dest_files=[ "res://.import/PaintingMask.png-682fe1f29d5ecb57a11bb8c73959607e.s3tc.stex", "res://.import/PaintingMask.png-682fe1f29d5ecb57a11bb8c73959607e.etc2.stex" ]
+source_file="res://assets/Characters/Models/Juggernaut/TubeTextures/Tube_AOMR.png"
+dest_files=[ "res://.import/Tube_AOMR.png-797090369d648e1cf7054c817b9b10b0.s3tc.stex", "res://.import/Tube_AOMR.png-797090369d648e1cf7054c817b9b10b0.etc2.stex" ]
 
 [params]
 
