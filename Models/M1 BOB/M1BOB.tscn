@@ -1,0 +1,19 @@
+[gd_scene load_steps=5 format=2]
+
+[ext_resource path="res://assets/Characters/Models/Shared/Material_005.material" type="Material" id=1]
+[ext_resource path="res://assets/Characters/Models/Shared/Material_006.material" type="Material" id=2]
+[ext_resource path="res://assets/Characters/Models/Shared/Material_002.material" type="Material" id=3]
+[ext_resource path="res://assets/Characters/Models/M1 BOB/M1BOB.dae" type="PackedScene" id=4]
+
+[node name="M1BOB" instance=ExtResource( 4 )]
+
+[node name="bob-eyelashes01" parent="Riggus Universalis/Skeleton" index="3"]
+visible = false
+
+[node name="Eyes" parent="Riggus Universalis/Skeleton" index="7"]
+material/0 = ExtResource( 1 )
+material/1 = ExtResource( 2 )
+material/2 = ExtResource( 3 )
+
+[node name="LowerArm" parent="Riggus Universalis/Skeleton" index="8"]
+material/0 = ExtResource( 3 )
