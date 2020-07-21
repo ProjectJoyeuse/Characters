@@ -1,0 +1,19 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/Leonardo.obj-71b9b452413d91714cd4acb6240842fb.mesh"
+
+[deps]
+
+files=[ "res://.import/Leonardo.obj-71b9b452413d91714cd4acb6240842fb.mesh" ]
+
+source_file="res://assets/Characters/Models/Leonardo/Leonardo.obj"
+dest_files=[ "res://.import/Leonardo.obj-71b9b452413d91714cd4acb6240842fb.mesh", "res://.import/Leonardo.obj-71b9b452413d91714cd4acb6240842fb.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+optimize_mesh=true
