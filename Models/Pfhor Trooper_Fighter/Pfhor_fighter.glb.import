@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Pfhor_fighter.dae-57a3b04222f398533558a06603984151.scn"
+path="res://.import/Pfhor_fighter.glb-0474e66f0711d54757f74b665f441828.scn"
 
 [deps]
 
-source_file="res://assets/Characters/Models/Pfhor Trooper_Fighter/Pfhor_fighter.dae"
-dest_files=[ "res://.import/Pfhor_fighter.dae-57a3b04222f398533558a06603984151.scn" ]
+source_file="res://assets/Characters/Models/Pfhor Trooper_Fighter/Pfhor_fighter.glb"
+dest_files=[ "res://.import/Pfhor_fighter.glb-0474e66f0711d54757f74b665f441828.scn" ]
 
 [params]
 
@@ -24,6 +24,7 @@ meshes/ensure_tangents=true
 meshes/storage=0
 meshes/light_baking=0
 meshes/lightmap_texel_size=0.1
+skins/use_named_skins=true
 external_files/store_in_subdir=false
 animation/import=true
 animation/fps=15

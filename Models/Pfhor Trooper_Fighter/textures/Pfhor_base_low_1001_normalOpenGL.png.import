@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/Pfhor_base_low_1001_baseColor.png-f7551e7bb6bdeedead234eb330341267.stex"
+path="res://.import/Pfhor_base_low_1001_normalOpenGL.png-1b35819e07f2d3d62416673f53f83d4c.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/Characters/Models/Pfhor Trooper_Fighter/Pfhor_base_low_1001_baseColor.png"
-dest_files=[ "res://.import/Pfhor_base_low_1001_baseColor.png-f7551e7bb6bdeedead234eb330341267.stex" ]
+source_file="res://assets/Characters/Models/Pfhor Trooper_Fighter/textures/Pfhor_base_low_1001_normalOpenGL.png"
+dest_files=[ "res://.import/Pfhor_base_low_1001_normalOpenGL.png-1b35819e07f2d3d62416673f53f83d4c.stex" ]
 
 [params]
 
