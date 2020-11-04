@@ -1,13 +1,101 @@
-[gd_scene load_steps=2 format=2]
+[gd_scene load_steps=4 format=2]
 
-[ext_resource path="res://assets/Characters/Models/Juggernaut/Jugg.glb" type="PackedScene" id=1]
+[ext_resource path="res://assets/Characters/Models/Juggernaut/Juggernaut.glb" type="PackedScene" id=1]
+[ext_resource path="res://addons/sade/ik_look_at.gd" type="Script" id=2]
+[ext_resource path="res://addons/jigglebones/jigglebone.gd" type="Script" id=3]
 
 [node name="Jugg" instance=ExtResource( 1 )]
 
-[node name="Point001" parent="." index="5"]
-light_color = Color( 1, 0, 0, 1 )
-shadow_enabled = true
+[node name="metarig" parent="." index="0"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.28555, -0.143492 )
 
-[node name="Point002" parent="." index="6"]
-light_color = Color( 1, 0, 0, 1 )
-shadow_enabled = true
+[node name="Jigglebone" type="Spatial" parent="metarig/Skeleton" index="13"]
+transform = Transform( -0.565104, -0.654693, -0.502031, 0.166845, -0.686623, 0.707611, -0.807973, 0.316112, 0.497245, 0.237427, -1.14347, -2.9274 )
+script = ExtResource( 3 )
+bone_name = "shoulder_r_19"
+damping = 0.5
+gravity = Vector3( 0, -1, 0 )
+
+[node name="Jigglebone2" type="Spatial" parent="metarig/Skeleton" index="14"]
+transform = Transform( -0.565102, 0.654693, 0.502034, -0.166842, -0.686624, 0.70761, 0.807975, 0.316112, 0.497243, -0.237427, -1.14347, -2.9274 )
+script = ExtResource( 3 )
+bone_name = "shoulder_l_19"
+damping = 0.5
+gravity = Vector3( 0, -1, 0 )
+
+[node name="Jigglebone3" type="Spatial" parent="metarig/Skeleton" index="15"]
+transform = Transform( 0.0792408, 0.200573, 0.976469, 0.924797, 0.350871, -0.147118, -0.372123, 0.914691, -0.157685, -1.5765, 1.59787, 0.154968 )
+script = ExtResource( 3 )
+bone_name = "shoulder_r_11"
+damping = 0.5
+gravity = Vector3( 0, -1, 0 )
+
+[node name="Jigglebone4" type="Spatial" parent="metarig/Skeleton" index="16"]
+transform = Transform( 0.0792674, -0.200583, -0.976465, -0.924793, 0.350869, -0.147147, 0.372127, 0.91469, -0.157685, 1.5765, 1.59787, 0.154968 )
+script = ExtResource( 3 )
+bone_name = "shoulder_l_11"
+damping = 0.5
+gravity = Vector3( 0, -1, 0 )
+
+[node name="Jigglebone5" type="Spatial" parent="metarig/Skeleton" index="17"]
+transform = Transform( 0.123194, -0.335845, 0.933826, 0.826772, 0.555195, 0.0906019, -0.548885, 0.760899, 0.346064, 0.566338, 1.11972, 0.0630874 )
+script = ExtResource( 3 )
+bone_name = "shoulder_r_15"
+damping = 0.5
+gravity = Vector3( 0, -1, 0 )
+
+[node name="Jigglebone6" type="Spatial" parent="metarig/Skeleton" index="18"]
+transform = Transform( 0.123161, 0.335868, -0.933822, -0.826769, 0.555193, 0.0906451, 0.548897, 0.76089, 0.346062, -0.566338, 1.11972, 0.0630871 )
+script = ExtResource( 3 )
+bone_name = "shoulder_l_15"
+damping = 0.5
+gravity = Vector3( 0, -1, 0 )
+
+[node name="Jigglebone7" type="Spatial" parent="metarig/Skeleton" index="19"]
+transform = Transform( -0.176721, -0.93491, 0.307757, 0.120995, 0.289672, 0.949449, -0.976797, 0.205024, 0.0619278, -2.3592, 0.860668, -2.6265 )
+script = ExtResource( 3 )
+bone_name = "shoulder_r_3"
+damping = 0.5
+gravity = Vector3( 0, -1, 0 )
+
+[node name="Jigglebone8" type="Spatial" parent="metarig/Skeleton" index="20"]
+transform = Transform( -0.176723, 0.934913, -0.307745, -0.120991, 0.289659, 0.949454, 0.976797, 0.205024, 0.0619268, 2.3592, 0.860668, -2.6265 )
+script = ExtResource( 3 )
+bone_name = "shoulder_l_3"
+damping = 0.5
+gravity = Vector3( 0, -1, 0 )
+
+[node name="Jigglebone9" type="Spatial" parent="metarig/Skeleton" index="21"]
+transform = Transform( -0.176721, -0.934909, 0.307757, 0.120993, 0.289672, 0.949449, -0.976797, 0.205023, 0.0619259, -2.3592, 0.829523, -3.16932 )
+script = ExtResource( 3 )
+bone_name = "shoulder_r_7"
+damping = 0.5
+gravity = Vector3( 0, -1, 0 )
+
+[node name="Jigglebone10" type="Spatial" parent="metarig/Skeleton" index="22"]
+transform = Transform( -0.176722, 0.934913, -0.307745, -0.12099, 0.28966, 0.949453, 0.976797, 0.205023, 0.0619258, 2.3592, 0.829523, -3.16932 )
+script = ExtResource( 3 )
+bone_name = "shoulder_l_7"
+damping = 0.5
+gravity = Vector3( 0, -1, 0 )
+
+[node name="Target" type="Spatial" parent="metarig" index="1"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1.13633, 3.49451 )
+
+[node name="IK_LookAt" type="Spatial" parent="metarig/Target" index="0"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, -2, 0, 0 )
+script = ExtResource( 2 )
+skeleton_path = NodePath("../../Skeleton")
+bone_name = "shoulder_r"
+use_our_rotation_z = true
+use_negative_our_rot = true
+additional_rotation = Vector3( -90, 180, 0 )
+
+[node name="IK_LookAt2" type="Spatial" parent="metarig/Target" index="1"]
+transform = Transform( 1, 0, 0, 0, 1, 0, 0, 0, 1, 2, 0, 0 )
+script = ExtResource( 2 )
+skeleton_path = NodePath("../../Skeleton")
+bone_name = "shoulder_l"
+use_our_rotation_z = true
+use_negative_our_rot = true
+additional_rotation = Vector3( -90, 180, 0 )
