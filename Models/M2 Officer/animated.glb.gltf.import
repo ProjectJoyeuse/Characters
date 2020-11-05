@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/M2Officer.dae-ba8b2d2d8506b44671116041d2469632.scn"
+path="res://.import/animated.glb.gltf-cc7586bdd2f67c2d27296bba57c1249c.scn"
 
 [deps]
 
-source_file="res://assets/Characters/Models/M2 Officer/M2Officer.dae"
-dest_files=[ "res://.import/M2Officer.dae-ba8b2d2d8506b44671116041d2469632.scn" ]
+source_file="res://assets/Characters/Models/M2 Officer/animated.glb.gltf"
+dest_files=[ "res://.import/animated.glb.gltf-cc7586bdd2f67c2d27296bba57c1249c.scn" ]
 
 [params]
 
@@ -24,12 +24,13 @@ meshes/ensure_tangents=true
 meshes/storage=0
 meshes/light_baking=0
 meshes/lightmap_texel_size=0.1
+skins/use_named_skins=true
 external_files/store_in_subdir=false
 animation/import=true
 animation/fps=15
 animation/filter_script=""
-animation/storage=false
-animation/keep_custom_tracks=false
+animation/storage=1
+animation/keep_custom_tracks=true
 animation/optimizer/enabled=true
 animation/optimizer/max_linear_error=0.05
 animation/optimizer/max_angular_error=0.01
