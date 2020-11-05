@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/MADD.dae-68216dba520ca81811fb88ebccb8e998.scn"
+path="res://.import/MADD.glb-f584344b95e49401fbc11f63404b3e60.scn"
 
 [deps]
 
-source_file="res://assets/Characters/Models/MADD/MADD.dae"
-dest_files=[ "res://.import/MADD.dae-68216dba520ca81811fb88ebccb8e998.scn" ]
+source_file="res://assets/Characters/Models/MADD/MADD.glb"
+dest_files=[ "res://.import/MADD.glb-f584344b95e49401fbc11f63404b3e60.scn" ]
 
 [params]
 
@@ -24,6 +24,7 @@ meshes/ensure_tangents=true
 meshes/storage=0
 meshes/light_baking=0
 meshes/lightmap_texel_size=0.1
+skins/use_named_skins=true
 external_files/store_in_subdir=false
 animation/import=true
 animation/fps=15
