@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Pfhor_hunter_gameReady.dae-f4a4aed3dcee26b90fd73f5c6163fe8e.scn"
+path="res://.import/Drone.glb-1108897de355bd274e413fcc78187879.scn"
 
 [deps]
 
-source_file="res://assets/Characters/Models/Hunter/Pfhor_hunter_gameReady.dae"
-dest_files=[ "res://.import/Pfhor_hunter_gameReady.dae-f4a4aed3dcee26b90fd73f5c6163fe8e.scn" ]
+source_file="res://assets/Characters/Models/Drone/Drone.glb"
+dest_files=[ "res://.import/Drone.glb-1108897de355bd274e413fcc78187879.scn" ]
 
 [params]
 
@@ -24,6 +24,7 @@ meshes/ensure_tangents=true
 meshes/storage=0
 meshes/light_baking=0
 meshes/lightmap_texel_size=0.1
+skins/use_named_skins=true
 external_files/store_in_subdir=false
 animation/import=true
 animation/fps=15
