@@ -12,7 +12,7 @@ onready var Root = $"Character/Riggus Universalis"
 
 export(float) var linear_speed : float = 1.0
 
-func _process(delta):
+func _physics_process(delta):
 	$AnimationTree.set("parameters/LinearSpeed/blend_position", linear_speed)
 	Height_L.translation.y = lerp(Height_L.translation.y, 
 		Character.to_local(Left.get_collision_point()).y,
@@ -26,6 +26,7 @@ func _process(delta):
 			Character.translation.y,
 			Root.to_local(Vector3(0,
 				min(Left.get_collision_point().y , Right.get_collision_point().y),
-				0)).y,
-			
-			delta*3)
+				0)).y,delta*3)
+	Character.translation.y = clamp(Character.translation.y,-0.5, 0.5)
+	Height_L.translation.y = clamp(Height_L.translation.y,-0.5, 0.5)
+	Height_R.translation.y = clamp(Height_R.translation.y,-0.5, 0.5)
